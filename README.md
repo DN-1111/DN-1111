@@ -8,16 +8,18 @@ About Me
 -  Skilled in SQL, Tableau, Excel, and Python (Pandas, NumPy, Matplotlib).
 -  Experienced in designing interactive dashboards and deriving actionable business insights.
 -  Built multiple real-world projects across domains like environment, retail, and customer analytics.
-- Continuously learning advanced data concepts to strengthen analytical and storytelling abilities.
+- Continuously learning advanced data concepts to strengthen analytical and storytelling abilities
+
+
+### 🛠 Skills
+Excel | SQL | Tableau | Python |Data Cleaning | Data Preprocessing | EDA | Dashboard Design | Storytelling With Data
+
 
 ### 🌐 Connect With Me
 - Email - deepadn98@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/dn7100/)
 - [Portfolio Website](https://deepadn-portfolio.netlify.app/)
-
-
-### 🛠 Skills
-Python | SQL | Tableau | Excel | Data Cleaning | EDA | Dashboard Design | KPI Tracking
+- [Tableau Public](https://public.tableau.com/app/profile/deepa.dn)
 
 
 
