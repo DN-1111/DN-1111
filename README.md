@@ -17,7 +17,6 @@ Excel | SQL | Tableau | Python |Data Cleaning | Data Preprocessing | EDA | Dashb
 
 
 ### 🌐 Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/dn7100/)
 - [Portfolio Website](https://deepadn-portfolio.netlify.app/)
 - [Tableau Public](https://public.tableau.com/app/profile/deepa.dn)
 
