@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-Welcome to my GitHub! I’m an IBM Certified Data Analyst with a passion for solving real-world problems through data.
-I specialize in data cleaning, analysis, visualization and storytelling, using tools like SQL, Tableau, Python and Excel to transform raw data into meaningful insights that drive better decisions.
+Welcome to my GitHub! 
+I’m a certified data analyst with hands-on experience working on real-world analytics projects that uncover insights and guide decisions.
+I enjoy exploring real-world datasets, uncovering insights and presenting them through clean, interactive dashboards and data-driven narratives.
 
 About Me
 -  IBM Certified Data Analyst with hands-on experience in analytics and visualization.
@@ -16,7 +17,6 @@ Excel | SQL | Tableau | Python |Data Cleaning | Data Preprocessing | EDA | Dashb
 
 
 ### 🌐 Connect With Me
-- Email - deepadn98@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/dn7100/)
 - [Portfolio Website](https://deepadn-portfolio.netlify.app/)
 - [Tableau Public](https://public.tableau.com/app/profile/deepa.dn)
